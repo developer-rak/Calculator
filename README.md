@@ -1,3 +1,3 @@
 # Calculator
 Simple calculator using JavaScript
-<img src="pic.png">
+<img src="calculator.gif">
